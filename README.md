@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince12222211&label=Profile%20views&color=0e75b6&style=flat" alt="prince12222211" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/princeverma3023/](https://www.linkedin.com/in/princeverma3023/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/princeverma3023/](https://www.linkedin.com/in/princeverma2306/)
 
 - 📫 How to reach me **Princeverma9504@gmail.com**
 
